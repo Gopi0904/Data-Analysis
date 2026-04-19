@@ -24,29 +24,6 @@ The dashboard focuses on currency fluctuations, yearly trends, and comparative p
 - Clear understanding of INR performance against global currencies  
 - Detection of trends and fluctuations in exchange rates  
 - Comparative analysis using YoY percentage changes  
-# 📊 Data Analytics Portfolio
-
-## 📌 Overview
-This repository is a collection of **data analytics and visualization projects** built using tools like Power BI and Excel.
-
-Each project focuses on solving real-world problems by analyzing data and presenting insights through interactive dashboards.
-
----
-
-## 🚀 Projects Included
-
-### 💳 UPI Payment Apps Dashboard
-Analysis of major UPI applications in India, focusing on transaction trends, market share, and growth patterns.
-
-**Key Insights:**
-- Growth of digital payments over time  
-- Market dominance of leading apps  
-- Transaction trends across years  
-
----
-
-### 🛒 Retail Store Dashboard
-Analysis of retail sales data to evaluate business performance and customer trends.
 
 **Key Insights:**
 - Revenue and profit analysis  
@@ -114,14 +91,4 @@ Each project folder contains:
 
 ---
 
-## 🎯 Purpose
-This repository is created to showcase practical skills in:
-- Data analysis  
-- Data visualization  
-- Dashboard design  
-- Insight generation  
-
----
-
-## 📬 Connect
 Feel free to explore the projects and share your feedback.
