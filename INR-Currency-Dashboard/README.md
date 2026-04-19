@@ -80,15 +80,4 @@ The dataset contains historical exchange rate data of INR against multiple curre
 
 ---
 
-## ⭐ Acknowledgement
-
-This project is created for learning and portfolio purposes to demonstrate data analysis, DAX skills, and dashboard design using Power BI.
-Each project folder contains:
-- Dashboard file (.pbix / Excel)
-- Dataset
-- Project-specific README
-- Dashboard preview image
-
----
-
 Feel free to explore the projects and share your feedback.
