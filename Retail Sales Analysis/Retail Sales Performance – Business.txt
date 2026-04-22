@@ -1,0 +1,36 @@
+Retail Sales Performance – Business Insights Report
+
+This report summarizes the analysis performed on the retail transaction dataset and highlights key insights, observations, and 
+strategic recommendations derived from the dashboard.
+
+1. Analysis Overview
+
+A retail transactions dataset containing 500 records was analyzed to understand sales performance across regions, products, 
+categories, and sales channels. SQL was used for data preparation and aggregation, while Power BI was used to design 
+an interactive one-page dashboard.
+
+• Calculated key KPIs such as Total Revenue, Total Transactions, Total Customers, and Average Order Value.
+• Analyzed monthly sales trends to identify seasonality and peak periods.
+• Evaluated region-wise and sales-channel-wise contributions to total revenue.
+• Identified top-performing products and monitored category-wise performance trends.
+
+2. Key Business Insights
+
+• Stable Overall Revenue: Sales show consistent performance with noticeable peaks during mid-year, indicating seasonal demand.
+• Balanced Regional Contribution: All regions contribute relatively evenly to total revenue.
+• Revenue Concentration: Top products account for a large portion of overall sales.
+• Channel Performance: Online and offline channels complement each other, with online performing better in certain months.
+• Category Dynamics: Category-level trends suggest changing customer preferences.
+
+3. Future Recommendations
+
+• Focus marketing campaigns on high-performing months and products.
+• Strengthen online sales initiatives and digital promotions.
+• Use customer purchase behavior to design loyalty and retention programs.
+• Monitor underperforming categories and adjust pricing or assortment strategies.
+• Continue tracking KPIs through dashboards for ongoing performance evaluation.
+
+4. Conclusion
+
+The dashboard enables management to quickly assess sales health and make informed decisions. Regular monitoring of these insights 
+will help optimize revenue growth and customer satisfaction.

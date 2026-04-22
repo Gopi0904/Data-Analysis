@@ -1,0 +1,501 @@
+TransactionID,Date,ProductName,Category,Region,SalesChannel,Quantity,UnitPrice,TotalAmount,PaymentMode,CustomerID
+1,2023-11-05,Smart Watch,Wearables,South,Offline,1,2512.1,2512.1,Credit Card,1086
+2,2023-10-14,Smart Watch,Wearables,East,Online,1,3380.08,3380.08,Net Banking,1183
+3,2023-01-02,Backpack,Accessories,East,Online,1,4215.32,4215.32,Credit Card,1022
+4,2023-04-10,Backpack,Accessories,West,Online,4,3589.45,14357.8,UPI,1049
+5,2023-09-29,Headphones,Accessories,North,Online,5,1605.88,8029.4,Credit Card,1041
+6,2023-04-06,Laptop,Electronics,East,Online,3,4954.28,14862.84,Net Banking,1141
+7,2023-02-16,Laptop,Electronics,North,Offline,1,4212.93,4212.93,UPI,1236
+8,2023-07-03,Headphones,Accessories,North,Offline,4,2268.17,9072.68,Net Banking,1274
+9,2023-08-10,Smart Watch,Wearables,South,Offline,5,2930.77,14653.85,Net Banking,1066
+10,2023-01-03,Office Chair,Furniture,East,Offline,2,3070.7,6141.4,UPI,1102
+11,2023-04-13,Backpack,Accessories,West,Offline,4,4055.9,16223.6,Cash,1277
+12,2023-11-13,Headphones,Accessories,South,Online,1,2222.42,2222.42,Cash,1257
+13,2023-10-19,Headphones,Accessories,East,Offline,3,2158.94,6476.82,Cash,1172
+14,2023-07-02,Office Chair,Furniture,West,Offline,3,3910.87,11732.61,UPI,1179
+15,2023-12-13,Laptop,Electronics,East,Online,2,3051.38,6102.76,UPI,1192
+16,2023-05-15,Office Chair,Furniture,West,Online,5,4552.92,22764.6,Cash,1153
+17,2023-07-05,Office Chair,Furniture,South,Online,4,3552.86,14211.44,Cash,1232
+18,2023-07-18,Office Chair,Furniture,South,Offline,3,2174.09,6522.27,Net Banking,1129
+19,2023-01-08,Backpack,Accessories,North,Offline,3,2823.45,8470.35,Net Banking,1295
+20,2023-08-19,Backpack,Accessories,East,Online,2,1414.64,2829.28,Net Banking,1157
+21,2023-02-01,Laptop,Electronics,South,Online,5,697.0,3485.0,Net Banking,1120
+22,2023-12-11,Laptop,Electronics,North,Offline,5,855.0,4275.0,UPI,1164
+23,2023-07-26,Smart Watch,Wearables,South,Online,3,2902.94,8708.82,Net Banking,1078
+24,2023-01-18,Smartphone,Electronics,East,Offline,1,2572.33,2572.33,Credit Card,1248
+25,2023-12-05,Headphones,Accessories,East,Offline,4,1047.26,4189.04,Cash,1299
+26,2023-07-26,Laptop,Electronics,South,Offline,1,4651.21,4651.21,UPI,1277
+27,2023-07-24,Smart Watch,Wearables,North,Offline,4,2697.99,10791.96,Cash,1001
+28,2023-06-27,Smart Watch,Wearables,West,Online,1,765.12,765.12,Cash,1256
+29,2023-01-16,Smartphone,Electronics,South,Offline,1,4348.4,4348.4,Cash,1002
+30,2023-05-17,Headphones,Accessories,East,Offline,5,882.02,4410.1,Credit Card,1033
+31,2023-08-30,Headphones,Accessories,North,Online,2,2126.27,4252.54,Net Banking,1116
+32,2023-06-17,Laptop,Electronics,North,Offline,1,775.97,775.97,Credit Card,1089
+33,2023-06-02,Smartphone,Electronics,West,Online,1,3759.68,3759.68,Net Banking,1253
+34,2023-08-26,Smartphone,Electronics,North,Online,2,4750.11,9500.22,UPI,1051
+35,2023-06-17,Smart Watch,Wearables,North,Online,4,1438.84,5755.36,Net Banking,1045
+36,2023-11-19,Headphones,Accessories,East,Offline,3,4688.36,14065.08,Credit Card,1105
+37,2023-02-04,Backpack,Accessories,South,Offline,5,3627.88,18139.4,Net Banking,1072
+38,2023-01-07,Smart Watch,Wearables,West,Offline,2,2494.4,4988.8,Cash,1160
+39,2023-11-29,Smart Watch,Wearables,East,Offline,3,2284.32,6852.96,UPI,1054
+40,2023-12-01,Smartphone,Electronics,North,Online,5,2753.07,13765.35,Credit Card,1119
+41,2023-10-30,Smart Watch,Wearables,South,Online,3,4297.51,12892.53,Net Banking,1123
+42,2023-02-07,Laptop,Electronics,North,Online,5,3370.83,16854.15,UPI,1283
+43,2023-01-20,Smart Watch,Wearables,North,Online,5,4261.01,21305.05,Credit Card,1172
+44,2023-08-10,Office Chair,Furniture,North,Offline,1,4787.14,4787.14,Credit Card,1031
+45,2023-07-18,Laptop,Electronics,East,Online,2,2366.83,4733.66,Credit Card,1047
+46,2023-03-16,Backpack,Accessories,North,Offline,4,4893.53,19574.12,UPI,1108
+47,2023-03-25,Office Chair,Furniture,West,Online,3,3830.21,11490.63,Net Banking,1104
+48,2023-12-20,Smart Watch,Wearables,East,Online,3,2975.95,8927.85,Net Banking,1298
+49,2023-08-15,Office Chair,Furniture,West,Offline,5,2595.64,12978.2,UPI,1261
+50,2023-05-08,Smartphone,Electronics,West,Online,2,1362.23,2724.46,Net Banking,1010
+51,2023-11-02,Smart Watch,Wearables,South,Offline,4,2476.89,9907.56,UPI,1137
+52,2023-01-28,Headphones,Accessories,East,Offline,3,3263.63,9790.89,Cash,1151
+53,2023-09-25,Smartphone,Electronics,South,Online,5,860.27,4301.35,Net Banking,1024
+54,2023-06-22,Headphones,Accessories,West,Online,5,2246.68,11233.4,Credit Card,1156
+55,2023-03-08,Laptop,Electronics,North,Online,2,1392.02,2784.04,Credit Card,1096
+56,2023-05-28,Smart Watch,Wearables,East,Online,2,3937.37,7874.74,Cash,1123
+57,2023-07-19,Backpack,Accessories,East,Offline,4,3684.5,14738.0,Credit Card,1132
+58,2023-05-12,Smart Watch,Wearables,West,Offline,1,2450.7,2450.7,Cash,1180
+59,2023-04-04,Smart Watch,Wearables,South,Offline,3,2949.96,8849.88,Cash,1045
+60,2023-11-04,Smart Watch,Wearables,West,Online,1,2444.95,2444.95,Net Banking,1097
+61,2023-02-10,Headphones,Accessories,North,Online,5,3551.12,17755.6,UPI,1066
+62,2023-10-15,Laptop,Electronics,West,Offline,5,3522.55,17612.75,Cash,1231
+63,2023-03-03,Smartphone,Electronics,East,Online,1,2156.4,2156.4,Net Banking,1297
+64,2023-08-11,Smartphone,Electronics,East,Online,3,4676.94,14030.82,Net Banking,1046
+65,2023-08-19,Laptop,Electronics,East,Online,2,1089.72,2179.44,Credit Card,1093
+66,2023-04-18,Smartphone,Electronics,North,Online,2,4126.17,8252.34,Net Banking,1061
+67,2023-10-29,Backpack,Accessories,West,Online,4,3335.61,13342.44,Cash,1155
+68,2023-09-06,Smart Watch,Wearables,East,Offline,2,2332.47,4664.94,UPI,1285
+69,2023-12-21,Smartphone,Electronics,East,Online,5,842.42,4212.1,UPI,1200
+70,2023-07-06,Laptop,Electronics,South,Online,4,1884.31,7537.24,Credit Card,1215
+71,2023-04-28,Laptop,Electronics,North,Offline,3,3464.6,10393.8,Credit Card,1204
+72,2023-04-17,Smart Watch,Wearables,East,Online,3,4262.57,12787.71,Net Banking,1262
+73,2023-03-24,Headphones,Accessories,South,Offline,4,4065.48,16261.92,Cash,1170
+74,2023-12-28,Smart Watch,Wearables,North,Online,2,3623.67,7247.34,UPI,1091
+75,2023-12-24,Office Chair,Furniture,South,Online,4,2598.81,10395.24,Cash,1076
+76,2023-06-02,Headphones,Accessories,West,Online,4,3665.52,14662.08,UPI,1058
+77,2023-08-17,Office Chair,Furniture,East,Offline,2,703.88,1407.76,Credit Card,1219
+78,2023-07-16,Headphones,Accessories,West,Online,5,3917.52,19587.6,Net Banking,1283
+79,2023-04-21,Laptop,Electronics,South,Offline,4,4580.17,18320.68,Cash,1085
+80,2023-08-30,Backpack,Accessories,East,Offline,1,3325.85,3325.85,UPI,1076
+81,2023-05-19,Smart Watch,Wearables,North,Offline,3,2639.54,7918.62,Net Banking,1024
+82,2023-07-19,Headphones,Accessories,East,Offline,3,4799.51,14398.53,Credit Card,1230
+83,2023-06-14,Smart Watch,Wearables,West,Online,3,4489.68,13469.04,UPI,1126
+84,2023-08-16,Smartphone,Electronics,South,Online,4,630.61,2522.44,Cash,1075
+85,2023-04-25,Laptop,Electronics,East,Online,4,2658.21,10632.84,Credit Card,1131
+86,2023-06-08,Laptop,Electronics,North,Online,4,756.4,3025.6,Cash,1259
+87,2023-05-24,Smart Watch,Wearables,East,Offline,1,2075.16,2075.16,Cash,1131
+88,2023-10-10,Laptop,Electronics,West,Offline,4,3097.43,12389.72,Credit Card,1271
+89,2023-02-17,Headphones,Accessories,North,Offline,3,1226.66,3679.98,UPI,1134
+90,2023-06-22,Smart Watch,Wearables,South,Online,3,1937.98,5813.94,Net Banking,1019
+91,2023-01-21,Smartphone,Electronics,West,Online,4,4544.16,18176.64,Net Banking,1297
+92,2023-05-09,Backpack,Accessories,West,Offline,1,4650.63,4650.63,Credit Card,1113
+93,2023-02-20,Headphones,Accessories,North,Online,3,4576.82,13730.46,Credit Card,1098
+94,2023-04-24,Backpack,Accessories,West,Offline,2,4760.07,9520.14,Cash,1036
+95,2023-03-28,Smart Watch,Wearables,West,Offline,3,4551.22,13653.66,Cash,1044
+96,2023-09-01,Office Chair,Furniture,North,Online,1,2965.83,2965.83,Cash,1261
+97,2023-06-07,Laptop,Electronics,North,Offline,1,3995.05,3995.05,Net Banking,1018
+98,2023-08-22,Backpack,Accessories,South,Online,5,3888.3,19441.5,Cash,1110
+99,2023-04-21,Laptop,Electronics,West,Online,4,1652.68,6610.72,UPI,1043
+100,2023-07-16,Smartphone,Electronics,East,Offline,3,2042.35,6127.05,Credit Card,1200
+101,2023-02-11,Smartphone,Electronics,East,Online,1,524.13,524.13,UPI,1221
+102,2023-11-16,Backpack,Accessories,South,Offline,3,4650.34,13951.02,Net Banking,1140
+103,2023-12-21,Headphones,Accessories,South,Offline,3,3591.0,10773.0,UPI,1128
+104,2023-04-03,Laptop,Electronics,West,Offline,2,1694.62,3389.24,UPI,1065
+105,2023-12-01,Backpack,Accessories,North,Offline,5,3323.73,16618.65,Cash,1244
+106,2023-10-24,Smartphone,Electronics,South,Offline,4,2723.04,10892.16,Cash,1005
+107,2023-12-23,Headphones,Accessories,East,Online,3,4578.24,13734.72,Cash,1077
+108,2023-05-02,Smartphone,Electronics,North,Online,1,1099.47,1099.47,Net Banking,1078
+109,2023-09-13,Smart Watch,Wearables,South,Offline,4,4578.12,18312.48,UPI,1151
+110,2023-06-24,Backpack,Accessories,West,Online,1,3830.39,3830.39,UPI,1066
+111,2023-07-30,Smartphone,Electronics,South,Online,1,1174.14,1174.14,Credit Card,1016
+112,2023-11-06,Smart Watch,Wearables,South,Offline,5,2610.31,13051.55,Credit Card,1260
+113,2023-01-02,Headphones,Accessories,West,Online,5,1476.56,7382.8,Net Banking,1073
+114,2023-12-31,Backpack,Accessories,South,Offline,4,3258.32,13033.28,Credit Card,1247
+115,2023-08-11,Headphones,Accessories,North,Online,4,3174.58,12698.32,UPI,1132
+116,2023-02-25,Laptop,Electronics,South,Offline,5,2928.55,14642.75,Cash,1147
+117,2023-10-21,Office Chair,Furniture,South,Offline,4,3174.28,12697.12,Net Banking,1270
+118,2023-11-14,Headphones,Accessories,West,Offline,3,1691.25,5073.75,UPI,1246
+119,2023-06-29,Laptop,Electronics,North,Offline,3,1703.76,5111.28,UPI,1139
+120,2023-05-06,Headphones,Accessories,North,Offline,2,4032.87,8065.74,Net Banking,1281
+121,2023-01-05,Smartphone,Electronics,South,Offline,1,4463.13,4463.13,Credit Card,1096
+122,2023-03-26,Smart Watch,Wearables,North,Online,1,2068.95,2068.95,Credit Card,1098
+123,2023-12-11,Backpack,Accessories,West,Offline,3,4153.82,12461.46,Credit Card,1245
+124,2023-01-14,Headphones,Accessories,East,Online,1,4608.84,4608.84,UPI,1220
+125,2023-02-10,Laptop,Electronics,West,Offline,5,2181.84,10909.2,UPI,1179
+126,2023-10-31,Smartphone,Electronics,North,Online,2,802.94,1605.88,Cash,1135
+127,2023-08-02,Backpack,Accessories,West,Offline,4,4912.39,19649.56,UPI,1067
+128,2023-05-01,Headphones,Accessories,West,Offline,3,2735.28,8205.84,Net Banking,1119
+129,2023-10-23,Headphones,Accessories,East,Offline,2,1653.82,3307.64,UPI,1285
+130,2023-05-11,Smart Watch,Wearables,East,Online,5,1713.51,8567.55,Cash,1059
+131,2023-07-29,Backpack,Accessories,South,Offline,4,1974.19,7896.76,Credit Card,1041
+132,2023-11-25,Office Chair,Furniture,West,Online,1,2610.45,2610.45,Cash,1050
+133,2023-03-12,Office Chair,Furniture,North,Online,4,2466.69,9866.76,Net Banking,1184
+134,2023-01-17,Laptop,Electronics,South,Offline,1,744.74,744.74,UPI,1062
+135,2023-04-01,Laptop,Electronics,East,Offline,5,2340.33,11701.65,Net Banking,1006
+136,2023-09-25,Headphones,Accessories,South,Online,3,732.75,2198.25,Cash,1163
+137,2023-02-08,Office Chair,Furniture,East,Offline,2,586.11,1172.22,Cash,1154
+138,2023-10-24,Smart Watch,Wearables,West,Online,2,2809.34,5618.68,Cash,1077
+139,2023-09-27,Backpack,Accessories,South,Offline,2,504.71,1009.42,UPI,1040
+140,2023-02-18,Backpack,Accessories,East,Online,5,3762.9,18814.5,Net Banking,1102
+141,2023-06-11,Headphones,Accessories,South,Offline,2,1540.5,3081.0,Credit Card,1179
+142,2023-09-16,Headphones,Accessories,North,Offline,5,1750.6,8753.0,Net Banking,1266
+143,2023-01-13,Office Chair,Furniture,West,Online,5,1553.22,7766.1,Net Banking,1002
+144,2023-06-21,Backpack,Accessories,South,Offline,2,1434.42,2868.84,UPI,1155
+145,2023-07-27,Laptop,Electronics,South,Offline,2,2813.2,5626.4,Credit Card,1067
+146,2023-03-25,Smartphone,Electronics,North,Online,1,2281.12,2281.12,Cash,1099
+147,2023-08-08,Smart Watch,Wearables,South,Offline,2,2253.66,4507.32,Cash,1058
+148,2023-08-27,Smartphone,Electronics,East,Offline,1,2184.46,2184.46,Cash,1247
+149,2023-10-14,Smart Watch,Wearables,South,Offline,3,838.55,2515.65,UPI,1141
+150,2023-01-09,Smart Watch,Wearables,South,Online,5,3970.72,19853.6,Cash,1002
+151,2023-10-22,Office Chair,Furniture,West,Offline,3,1594.17,4782.51,Credit Card,1029
+152,2023-07-10,Headphones,Accessories,North,Offline,2,3148.43,6296.86,Cash,1027
+153,2023-09-30,Smartphone,Electronics,East,Offline,2,2210.46,4420.92,Credit Card,1204
+154,2023-02-05,Backpack,Accessories,East,Offline,4,966.1,3864.4,Cash,1186
+155,2023-03-09,Headphones,Accessories,West,Offline,4,531.85,2127.4,Cash,1270
+156,2023-06-11,Backpack,Accessories,West,Online,1,2772.92,2772.92,Credit Card,1075
+157,2023-03-04,Backpack,Accessories,East,Online,5,1953.82,9769.1,Net Banking,1207
+158,2023-03-28,Backpack,Accessories,South,Offline,3,4279.72,12839.16,Net Banking,1260
+159,2023-10-29,Smartphone,Electronics,North,Offline,4,1607.32,6429.28,UPI,1037
+160,2023-10-18,Smart Watch,Wearables,South,Offline,4,2471.39,9885.56,Cash,1038
+161,2023-01-28,Smart Watch,Wearables,West,Online,2,1932.63,3865.26,Cash,1104
+162,2023-03-24,Laptop,Electronics,East,Online,4,1546.28,6185.12,Credit Card,1224
+163,2023-11-04,Smart Watch,Wearables,West,Online,4,2424.84,9699.36,Net Banking,1294
+164,2023-04-15,Headphones,Accessories,West,Online,1,2987.04,2987.04,Cash,1052
+165,2023-05-02,Backpack,Accessories,West,Online,4,2853.08,11412.32,Credit Card,1199
+166,2023-01-04,Headphones,Accessories,North,Offline,5,2622.25,13111.25,Net Banking,1192
+167,2023-07-01,Laptop,Electronics,South,Online,2,2143.5,4287.0,Cash,1092
+168,2023-07-21,Headphones,Accessories,South,Online,2,4174.64,8349.28,UPI,1187
+169,2023-07-08,Headphones,Accessories,East,Offline,5,915.34,4576.7,Net Banking,1034
+170,2023-06-17,Office Chair,Furniture,East,Offline,5,2185.25,10926.25,UPI,1120
+171,2023-10-31,Smartphone,Electronics,West,Online,4,4349.63,17398.52,Credit Card,1021
+172,2023-10-06,Backpack,Accessories,North,Offline,3,1487.0,4461.0,Credit Card,1009
+173,2023-05-29,Headphones,Accessories,West,Online,1,4072.02,4072.02,Credit Card,1277
+174,2023-10-27,Laptop,Electronics,North,Online,1,3431.57,3431.57,UPI,1185
+175,2023-10-19,Smartphone,Electronics,North,Offline,5,3037.51,15187.55,Cash,1142
+176,2023-03-22,Smart Watch,Wearables,North,Online,3,3046.37,9139.11,UPI,1061
+177,2023-12-24,Headphones,Accessories,West,Online,1,4463.13,4463.13,Credit Card,1145
+178,2023-03-05,Office Chair,Furniture,North,Online,5,3942.66,19713.3,Net Banking,1167
+179,2023-12-02,Laptop,Electronics,West,Online,5,1193.02,5965.1,Cash,1217
+180,2023-03-09,Headphones,Accessories,South,Offline,4,2476.11,9904.44,UPI,1038
+181,2023-01-10,Backpack,Accessories,East,Offline,2,3700.9,7401.8,Cash,1069
+182,2023-11-21,Smartphone,Electronics,West,Offline,1,1061.86,1061.86,Cash,1051
+183,2023-10-13,Smartphone,Electronics,South,Offline,4,4657.4,18629.6,UPI,1205
+184,2023-10-25,Office Chair,Furniture,North,Online,1,1548.46,1548.46,Credit Card,1187
+185,2023-08-30,Headphones,Accessories,South,Offline,5,1880.91,9404.55,Net Banking,1061
+186,2023-07-05,Laptop,Electronics,North,Online,1,1453.05,1453.05,UPI,1126
+187,2023-03-24,Backpack,Accessories,South,Online,2,3270.2,6540.4,Credit Card,1117
+188,2023-04-25,Headphones,Accessories,West,Offline,4,735.85,2943.4,Net Banking,1247
+189,2023-08-12,Laptop,Electronics,West,Offline,5,1058.03,5290.15,Cash,1185
+190,2023-05-07,Smart Watch,Wearables,South,Online,5,973.81,4869.05,Cash,1019
+191,2023-10-14,Smart Watch,Wearables,East,Online,5,4547.55,22737.75,UPI,1220
+192,2023-03-23,Laptop,Electronics,East,Online,1,2314.45,2314.45,Credit Card,1228
+193,2023-03-11,Smartphone,Electronics,South,Offline,1,912.07,912.07,Credit Card,1226
+194,2023-05-06,Headphones,Accessories,East,Online,3,3062.18,9186.54,Credit Card,1071
+195,2023-06-27,Laptop,Electronics,North,Offline,3,1915.8,5747.4,Credit Card,1148
+196,2023-07-25,Office Chair,Furniture,South,Offline,5,3472.4,17362.0,Credit Card,1122
+197,2023-08-05,Laptop,Electronics,South,Online,2,700.54,1401.08,UPI,1292
+198,2023-08-03,Smart Watch,Wearables,West,Offline,5,2544.46,12722.3,Net Banking,1276
+199,2023-12-20,Smart Watch,Wearables,East,Online,2,4137.88,8275.76,Cash,1284
+200,2023-12-31,Office Chair,Furniture,East,Offline,2,3504.61,7009.22,Cash,1086
+201,2023-03-26,Headphones,Accessories,East,Online,2,3294.5,6589.0,UPI,1117
+202,2023-01-20,Laptop,Electronics,West,Online,5,1819.03,9095.15,Net Banking,1280
+203,2023-07-11,Smartphone,Electronics,West,Offline,4,1956.77,7827.08,Credit Card,1186
+204,2023-04-09,Laptop,Electronics,East,Online,4,1682.85,6731.4,Credit Card,1178
+205,2023-07-31,Smart Watch,Wearables,North,Offline,4,1746.26,6985.04,Credit Card,1106
+206,2023-05-03,Office Chair,Furniture,North,Online,3,4134.21,12402.63,Credit Card,1124
+207,2023-05-30,Smart Watch,Wearables,West,Online,3,4197.63,12592.89,UPI,1249
+208,2023-06-29,Office Chair,Furniture,South,Offline,5,3110.19,15550.95,Cash,1007
+209,2023-06-23,Backpack,Accessories,East,Offline,1,2810.13,2810.13,Net Banking,1272
+210,2023-05-17,Laptop,Electronics,West,Online,4,2654.74,10618.96,Net Banking,1143
+211,2023-08-05,Laptop,Electronics,East,Online,1,1893.92,1893.92,Credit Card,1075
+212,2023-11-03,Backpack,Accessories,West,Online,1,4055.25,4055.25,UPI,1038
+213,2023-08-27,Backpack,Accessories,East,Offline,4,1779.89,7119.56,UPI,1100
+214,2023-08-07,Smart Watch,Wearables,West,Offline,4,2676.51,10706.04,Cash,1132
+215,2023-06-11,Smart Watch,Wearables,North,Offline,2,2044.67,4089.34,Net Banking,1014
+216,2023-05-30,Backpack,Accessories,East,Online,3,1220.47,3661.41,UPI,1137
+217,2023-07-13,Laptop,Electronics,East,Online,2,3269.81,6539.62,UPI,1251
+218,2023-04-30,Smart Watch,Wearables,South,Offline,1,2242.16,2242.16,UPI,1281
+219,2023-08-09,Smart Watch,Wearables,North,Offline,1,1413.23,1413.23,Cash,1249
+220,2023-01-27,Office Chair,Furniture,South,Online,5,1545.82,7729.1,Net Banking,1203
+221,2023-02-22,Headphones,Accessories,South,Online,1,1686.12,1686.12,Net Banking,1236
+222,2023-09-14,Smart Watch,Wearables,North,Online,4,2669.92,10679.68,UPI,1255
+223,2023-08-08,Headphones,Accessories,South,Online,3,4672.02,14016.06,Credit Card,1294
+224,2023-03-20,Office Chair,Furniture,North,Online,4,1366.47,5465.88,Credit Card,1227
+225,2023-05-04,Backpack,Accessories,East,Online,3,1882.16,5646.48,Net Banking,1196
+226,2023-12-18,Headphones,Accessories,East,Offline,1,988.59,988.59,Cash,1172
+227,2023-12-10,Backpack,Accessories,East,Offline,3,1404.49,4213.47,UPI,1207
+228,2023-06-15,Office Chair,Furniture,North,Online,3,2981.28,8943.84,Cash,1087
+229,2023-11-06,Backpack,Accessories,South,Online,3,1944.32,5832.96,Net Banking,1258
+230,2023-09-15,Headphones,Accessories,North,Online,2,3029.57,6059.14,UPI,1149
+231,2023-04-01,Laptop,Electronics,West,Online,1,1050.63,1050.63,Cash,1020
+232,2023-01-22,Backpack,Accessories,North,Online,5,1447.83,7239.15,UPI,1013
+233,2023-07-03,Office Chair,Furniture,East,Offline,1,2867.4,2867.4,UPI,1134
+234,2023-07-30,Headphones,Accessories,East,Offline,2,549.83,1099.66,Cash,1038
+235,2023-08-03,Smart Watch,Wearables,South,Offline,1,3494.06,3494.06,Net Banking,1031
+236,2023-01-28,Smart Watch,Wearables,North,Offline,2,2863.04,5726.08,Net Banking,1101
+237,2023-04-21,Office Chair,Furniture,North,Offline,4,1341.99,5367.96,Cash,1125
+238,2023-05-02,Smart Watch,Wearables,East,Online,1,4210.35,4210.35,UPI,1006
+239,2023-04-05,Backpack,Accessories,West,Offline,4,2959.45,11837.8,Cash,1099
+240,2023-12-15,Backpack,Accessories,West,Online,1,2442.59,2442.59,UPI,1023
+241,2023-08-10,Headphones,Accessories,West,Offline,1,2015.87,2015.87,UPI,1010
+242,2023-03-21,Backpack,Accessories,East,Offline,5,3100.38,15501.9,Credit Card,1121
+243,2023-07-21,Office Chair,Furniture,West,Online,5,4520.92,22604.6,UPI,1019
+244,2023-06-03,Headphones,Accessories,East,Offline,5,1619.86,8099.3,Net Banking,1111
+245,2023-07-06,Backpack,Accessories,North,Offline,4,3860.13,15440.52,Net Banking,1214
+246,2023-06-27,Smart Watch,Wearables,West,Online,2,3145.33,6290.66,Net Banking,1222
+247,2023-02-08,Smart Watch,Wearables,South,Online,5,2010.77,10053.85,Cash,1127
+248,2023-01-31,Smart Watch,Wearables,North,Online,4,2610.33,10441.32,Net Banking,1111
+249,2023-02-06,Smartphone,Electronics,West,Offline,4,1094.07,4376.28,Cash,1127
+250,2023-08-06,Smartphone,Electronics,South,Online,4,4824.82,19299.28,Credit Card,1231
+251,2023-03-10,Headphones,Accessories,East,Offline,4,1286.18,5144.72,UPI,1227
+252,2023-11-29,Headphones,Accessories,East,Online,5,1968.86,9844.3,UPI,1287
+253,2023-07-23,Office Chair,Furniture,North,Online,4,980.57,3922.28,UPI,1155
+254,2023-12-15,Laptop,Electronics,East,Online,5,1691.2,8456.0,Net Banking,1099
+255,2023-06-28,Headphones,Accessories,North,Online,2,4620.02,9240.04,Cash,1271
+256,2023-12-02,Headphones,Accessories,East,Offline,1,3546.05,3546.05,Cash,1143
+257,2023-04-01,Smart Watch,Wearables,South,Offline,4,3986.91,15947.64,Net Banking,1251
+258,2023-01-03,Headphones,Accessories,South,Offline,3,1307.6,3922.8,Credit Card,1226
+259,2023-06-02,Backpack,Accessories,North,Offline,5,2249.0,11245.0,Cash,1105
+260,2023-11-14,Smart Watch,Wearables,West,Offline,1,690.8,690.8,Credit Card,1055
+261,2023-04-22,Smartphone,Electronics,South,Online,4,1744.61,6978.44,Credit Card,1134
+262,2023-03-18,Smartphone,Electronics,South,Online,1,4805.87,4805.87,Net Banking,1300
+263,2023-10-03,Smartphone,Electronics,North,Online,4,2836.07,11344.28,Credit Card,1149
+264,2023-04-19,Office Chair,Furniture,East,Online,1,1505.01,1505.01,Credit Card,1156
+265,2023-04-03,Smartphone,Electronics,East,Offline,1,3110.0,3110.0,Cash,1268
+266,2023-04-01,Laptop,Electronics,East,Online,2,1140.96,2281.92,Cash,1067
+267,2023-01-11,Smart Watch,Wearables,West,Offline,1,2844.3,2844.3,Credit Card,1269
+268,2023-07-30,Office Chair,Furniture,East,Online,4,4908.98,19635.92,Net Banking,1019
+269,2023-06-29,Backpack,Accessories,North,Offline,2,1689.9,3379.8,Credit Card,1286
+270,2023-12-26,Smartphone,Electronics,South,Offline,4,4360.36,17441.44,UPI,1122
+271,2023-02-17,Headphones,Accessories,East,Online,3,3433.8,10301.4,UPI,1027
+272,2023-07-28,Headphones,Accessories,East,Offline,5,3948.84,19744.2,Credit Card,1138
+273,2023-09-14,Headphones,Accessories,East,Online,2,4963.1,9926.2,Net Banking,1106
+274,2023-01-25,Smartphone,Electronics,North,Offline,3,1172.72,3518.16,Credit Card,1110
+275,2023-01-10,Laptop,Electronics,North,Online,3,972.7,2918.1,UPI,1130
+276,2023-01-19,Backpack,Accessories,West,Online,5,2828.48,14142.4,Credit Card,1134
+277,2023-10-09,Smart Watch,Wearables,North,Online,3,4736.52,14209.56,Net Banking,1079
+278,2023-04-08,Headphones,Accessories,South,Offline,3,3098.68,9296.04,Net Banking,1256
+279,2023-07-03,Headphones,Accessories,West,Online,4,4157.72,16630.88,Net Banking,1024
+280,2023-11-21,Backpack,Accessories,West,Offline,4,2521.01,10084.04,Cash,1108
+281,2023-01-22,Smart Watch,Wearables,East,Online,5,1384.79,6923.95,Net Banking,1025
+282,2023-02-02,Smart Watch,Wearables,South,Offline,1,4434.25,4434.25,Net Banking,1250
+283,2023-10-18,Office Chair,Furniture,West,Offline,5,3658.26,18291.3,Credit Card,1173
+284,2023-05-07,Office Chair,Furniture,North,Online,5,3011.9,15059.5,UPI,1014
+285,2023-04-16,Smartphone,Electronics,West,Online,1,1944.32,1944.32,Cash,1076
+286,2023-08-05,Office Chair,Furniture,West,Offline,3,1500.8,4502.4,UPI,1085
+287,2023-07-07,Laptop,Electronics,East,Offline,2,3740.57,7481.14,Cash,1285
+288,2023-01-03,Office Chair,Furniture,West,Online,5,2575.82,12879.1,Credit Card,1199
+289,2023-05-16,Office Chair,Furniture,North,Online,4,840.13,3360.52,Net Banking,1123
+290,2023-09-29,Smart Watch,Wearables,South,Offline,2,3886.75,7773.5,Cash,1224
+291,2023-09-28,Backpack,Accessories,North,Online,2,2370.23,4740.46,UPI,1276
+292,2023-07-03,Office Chair,Furniture,East,Online,3,1187.4,3562.2,Cash,1161
+293,2023-08-20,Headphones,Accessories,South,Online,1,1891.25,1891.25,Net Banking,1291
+294,2023-10-10,Headphones,Accessories,North,Offline,2,3377.01,6754.02,Cash,1194
+295,2023-08-17,Office Chair,Furniture,West,Offline,4,4015.59,16062.36,Credit Card,1024
+296,2023-02-09,Smartphone,Electronics,West,Offline,1,3291.56,3291.56,Net Banking,1215
+297,2023-12-24,Headphones,Accessories,East,Offline,4,3904.86,15619.44,Cash,1119
+298,2023-10-13,Laptop,Electronics,West,Online,4,2352.8,9411.2,Cash,1015
+299,2023-03-22,Office Chair,Furniture,North,Online,4,1812.18,7248.72,Credit Card,1109
+300,2023-09-12,Smartphone,Electronics,South,Online,1,4574.24,4574.24,Cash,1190
+301,2023-09-07,Smartphone,Electronics,South,Offline,1,1621.81,1621.81,Credit Card,1126
+302,2023-09-30,Smart Watch,Wearables,East,Offline,5,4505.73,22528.65,Credit Card,1246
+303,2023-03-24,Backpack,Accessories,North,Online,1,4196.76,4196.76,Credit Card,1210
+304,2023-08-03,Backpack,Accessories,North,Offline,4,4176.09,16704.36,UPI,1193
+305,2023-01-30,Laptop,Electronics,North,Online,1,3875.01,3875.01,UPI,1272
+306,2023-01-05,Headphones,Accessories,South,Online,3,3199.64,9598.92,Cash,1257
+307,2023-07-27,Office Chair,Furniture,West,Offline,3,4213.08,12639.24,UPI,1076
+308,2023-11-10,Office Chair,Furniture,West,Online,4,3683.32,14733.28,Credit Card,1164
+309,2023-08-28,Backpack,Accessories,South,Offline,5,1472.08,7360.4,UPI,1271
+310,2023-10-17,Smart Watch,Wearables,South,Offline,5,4483.74,22418.7,Net Banking,1191
+311,2023-12-30,Laptop,Electronics,West,Online,5,4416.71,22083.55,Net Banking,1069
+312,2023-12-10,Backpack,Accessories,West,Offline,4,1445.98,5783.92,Net Banking,1130
+313,2023-08-27,Backpack,Accessories,West,Online,4,4635.15,18540.6,Cash,1227
+314,2023-05-07,Smart Watch,Wearables,North,Online,2,4907.39,9814.78,Cash,1210
+315,2023-11-13,Smart Watch,Wearables,South,Offline,3,1937.69,5813.07,Net Banking,1198
+316,2023-06-30,Headphones,Accessories,West,Offline,4,4626.51,18506.04,Credit Card,1055
+317,2023-09-05,Smartphone,Electronics,South,Offline,2,787.29,1574.58,Cash,1271
+318,2023-12-18,Office Chair,Furniture,South,Offline,4,932.78,3731.12,UPI,1046
+319,2023-09-09,Smartphone,Electronics,West,Online,2,2119.58,4239.16,UPI,1132
+320,2023-08-04,Laptop,Electronics,West,Offline,1,2315.93,2315.93,UPI,1022
+321,2023-07-24,Backpack,Accessories,East,Offline,3,2222.23,6666.69,Net Banking,1174
+322,2023-10-21,Backpack,Accessories,North,Online,5,607.18,3035.9,Credit Card,1153
+323,2023-01-10,Smart Watch,Wearables,South,Online,2,1769.56,3539.12,Net Banking,1259
+324,2023-11-05,Smartphone,Electronics,North,Online,5,548.22,2741.1,Credit Card,1027
+325,2023-07-16,Backpack,Accessories,North,Online,4,3454.62,13818.48,Cash,1061
+326,2023-12-24,Smart Watch,Wearables,South,Offline,1,2390.27,2390.27,Cash,1207
+327,2023-05-16,Headphones,Accessories,South,Offline,1,3072.88,3072.88,UPI,1269
+328,2023-06-13,Smart Watch,Wearables,West,Online,3,2275.51,6826.53,UPI,1021
+329,2023-04-05,Headphones,Accessories,West,Online,4,2606.15,10424.6,Credit Card,1129
+330,2023-02-16,Backpack,Accessories,South,Offline,4,1373.19,5492.76,Net Banking,1192
+331,2023-05-12,Smartphone,Electronics,South,Offline,3,4914.86,14744.58,Cash,1230
+332,2023-02-28,Smartphone,Electronics,South,Online,3,508.18,1524.54,UPI,1265
+333,2023-06-25,Smart Watch,Wearables,West,Offline,2,3155.08,6310.16,Cash,1216
+334,2023-08-19,Smartphone,Electronics,East,Offline,5,2492.21,12461.05,Credit Card,1128
+335,2023-10-08,Smart Watch,Wearables,North,Online,5,3610.56,18052.8,UPI,1031
+336,2023-09-12,Smartphone,Electronics,South,Online,4,507.4,2029.6,UPI,1147
+337,2023-07-06,Office Chair,Furniture,East,Online,2,1137.47,2274.94,UPI,1129
+338,2023-04-19,Office Chair,Furniture,South,Online,5,2946.01,14730.05,Cash,1012
+339,2023-07-04,Laptop,Electronics,North,Offline,5,3745.63,18728.15,Net Banking,1149
+340,2023-02-26,Headphones,Accessories,North,Online,1,2880.52,2880.52,Cash,1078
+341,2023-12-19,Smartphone,Electronics,North,Offline,5,4114.59,20572.95,Credit Card,1108
+342,2023-07-08,Backpack,Accessories,East,Online,2,2054.53,4109.06,UPI,1033
+343,2023-03-10,Backpack,Accessories,East,Offline,3,1123.43,3370.29,UPI,1253
+344,2023-09-21,Laptop,Electronics,East,Offline,5,900.49,4502.45,Net Banking,1108
+345,2023-08-02,Laptop,Electronics,East,Online,1,3168.9,3168.9,Cash,1036
+346,2023-01-19,Smart Watch,Wearables,East,Offline,1,760.08,760.08,Credit Card,1044
+347,2023-05-25,Smart Watch,Wearables,West,Offline,5,4478.45,22392.25,Net Banking,1153
+348,2023-07-14,Smart Watch,Wearables,East,Offline,5,541.93,2709.65,Cash,1214
+349,2023-05-10,Headphones,Accessories,East,Offline,4,3903.32,15613.28,Net Banking,1201
+350,2023-01-17,Smartphone,Electronics,North,Online,2,3937.63,7875.26,Credit Card,1185
+351,2023-07-14,Smartphone,Electronics,South,Offline,3,714.13,2142.39,Net Banking,1120
+352,2023-10-11,Smartphone,Electronics,South,Offline,5,4353.57,21767.85,Credit Card,1008
+353,2023-07-25,Backpack,Accessories,South,Offline,2,3098.47,6196.94,Credit Card,1278
+354,2023-07-30,Laptop,Electronics,South,Offline,5,3197.63,15988.15,Cash,1100
+355,2023-12-30,Laptop,Electronics,North,Online,2,2640.86,5281.72,Cash,1125
+356,2023-02-14,Smart Watch,Wearables,West,Offline,3,2270.72,6812.16,Cash,1050
+357,2023-06-09,Smartphone,Electronics,East,Offline,5,2018.45,10092.25,Net Banking,1259
+358,2023-01-11,Laptop,Electronics,West,Offline,5,2636.4,13182.0,UPI,1284
+359,2023-04-23,Laptop,Electronics,West,Offline,2,1513.09,3026.18,Cash,1016
+360,2023-07-22,Office Chair,Furniture,East,Offline,4,1665.28,6661.12,Net Banking,1180
+361,2023-09-14,Backpack,Accessories,West,Offline,3,4619.52,13858.56,Credit Card,1207
+362,2023-01-05,Smartphone,Electronics,West,Online,4,2104.38,8417.52,UPI,1052
+363,2023-12-28,Headphones,Accessories,South,Online,3,1715.95,5147.85,Net Banking,1088
+364,2023-06-10,Backpack,Accessories,West,Offline,4,3085.74,12342.96,UPI,1250
+365,2023-06-04,Office Chair,Furniture,West,Online,5,1818.17,9090.85,UPI,1221
+366,2023-10-27,Office Chair,Furniture,East,Offline,2,4153.31,8306.62,Cash,1173
+367,2023-12-16,Smart Watch,Wearables,North,Online,2,4202.25,8404.5,Credit Card,1091
+368,2023-01-03,Laptop,Electronics,East,Offline,4,2802.22,11208.88,Credit Card,1004
+369,2023-03-04,Laptop,Electronics,East,Online,5,3429.49,17147.45,UPI,1018
+370,2023-02-22,Smart Watch,Wearables,West,Offline,1,4790.52,4790.52,Cash,1189
+371,2023-09-14,Backpack,Accessories,South,Offline,4,1888.01,7552.04,Credit Card,1255
+372,2023-01-26,Headphones,Accessories,South,Offline,1,3448.23,3448.23,UPI,1284
+373,2023-03-11,Headphones,Accessories,North,Online,5,1399.08,6995.4,Cash,1183
+374,2023-09-28,Laptop,Electronics,East,Offline,3,2803.78,8411.34,UPI,1248
+375,2023-11-13,Office Chair,Furniture,East,Online,5,1827.95,9139.75,Credit Card,1009
+376,2023-03-08,Smartphone,Electronics,South,Offline,3,3883.41,11650.23,UPI,1055
+377,2023-05-16,Laptop,Electronics,East,Offline,1,4322.15,4322.15,Credit Card,1119
+378,2023-06-27,Backpack,Accessories,East,Offline,2,3607.98,7215.96,UPI,1161
+379,2023-05-14,Backpack,Accessories,North,Online,2,1184.56,2369.12,Credit Card,1283
+380,2023-02-02,Backpack,Accessories,North,Online,1,4113.15,4113.15,Cash,1033
+381,2023-01-25,Smartphone,Electronics,North,Offline,3,3829.62,11488.86,Credit Card,1057
+382,2023-11-15,Smartphone,Electronics,East,Online,3,1580.28,4740.84,UPI,1044
+383,2023-11-06,Headphones,Accessories,West,Online,3,1247.2,3741.6,Net Banking,1088
+384,2023-05-12,Backpack,Accessories,East,Online,5,3266.24,16331.2,UPI,1205
+385,2023-11-11,Office Chair,Furniture,North,Offline,1,3896.21,3896.21,Cash,1131
+386,2023-05-05,Smart Watch,Wearables,East,Online,1,2494.78,2494.78,UPI,1045
+387,2023-08-25,Smartphone,Electronics,West,Offline,1,4114.38,4114.38,UPI,1294
+388,2023-02-14,Laptop,Electronics,South,Offline,4,953.02,3812.08,UPI,1074
+389,2023-05-22,Laptop,Electronics,East,Online,4,2465.64,9862.56,Net Banking,1014
+390,2023-07-06,Laptop,Electronics,South,Online,2,3083.04,6166.08,UPI,1246
+391,2023-02-10,Headphones,Accessories,North,Offline,1,4286.91,4286.91,Cash,1092
+392,2023-07-19,Backpack,Accessories,North,Online,4,1140.8,4563.2,UPI,1230
+393,2023-05-21,Office Chair,Furniture,East,Offline,1,1005.35,1005.35,Credit Card,1123
+394,2023-12-31,Office Chair,Furniture,East,Online,5,4234.63,21173.15,UPI,1145
+395,2023-10-03,Smartphone,Electronics,South,Online,1,4897.59,4897.59,Cash,1052
+396,2023-05-05,Laptop,Electronics,West,Online,3,2434.66,7303.98,Cash,1178
+397,2023-12-05,Laptop,Electronics,South,Online,2,1327.87,2655.74,UPI,1117
+398,2023-04-21,Smart Watch,Wearables,North,Online,2,1215.69,2431.38,UPI,1032
+399,2023-05-24,Smart Watch,Wearables,West,Online,5,3319.14,16595.7,UPI,1080
+400,2023-11-30,Headphones,Accessories,East,Offline,1,4769.49,4769.49,Net Banking,1227
+401,2023-03-26,Office Chair,Furniture,North,Offline,1,4120.89,4120.89,UPI,1100
+402,2023-12-06,Smartphone,Electronics,South,Offline,2,3006.59,6013.18,UPI,1182
+403,2023-02-15,Backpack,Accessories,East,Offline,1,639.2,639.2,Cash,1062
+404,2023-11-01,Smart Watch,Wearables,South,Offline,3,2202.22,6606.66,Credit Card,1191
+405,2023-02-19,Smartphone,Electronics,South,Online,3,4975.88,14927.64,Net Banking,1019
+406,2023-03-19,Headphones,Accessories,East,Online,4,3601.08,14404.32,UPI,1112
+407,2023-09-08,Laptop,Electronics,North,Offline,2,1730.32,3460.64,Cash,1068
+408,2023-06-13,Smartphone,Electronics,North,Offline,2,532.64,1065.28,Credit Card,1192
+409,2023-07-31,Backpack,Accessories,East,Online,3,2939.21,8817.63,Credit Card,1090
+410,2023-01-31,Smartphone,Electronics,South,Offline,3,3023.34,9070.02,Credit Card,1132
+411,2023-10-15,Office Chair,Furniture,North,Offline,2,4408.1,8816.2,Cash,1243
+412,2023-08-03,Laptop,Electronics,South,Offline,2,2111.61,4223.22,Net Banking,1178
+413,2023-05-24,Backpack,Accessories,South,Online,1,1966.38,1966.38,Net Banking,1025
+414,2023-07-30,Laptop,Electronics,South,Offline,5,2178.58,10892.9,Net Banking,1132
+415,2023-02-12,Smart Watch,Wearables,East,Online,1,1124.71,1124.71,Cash,1206
+416,2023-12-15,Office Chair,Furniture,North,Online,2,2129.74,4259.48,Credit Card,1019
+417,2023-02-03,Smartphone,Electronics,South,Offline,5,2991.62,14958.1,Cash,1040
+418,2023-06-01,Laptop,Electronics,East,Offline,2,3808.15,7616.3,UPI,1299
+419,2023-08-19,Backpack,Accessories,East,Online,1,2783.45,2783.45,Cash,1207
+420,2023-01-24,Headphones,Accessories,East,Online,2,2583.29,5166.58,Cash,1079
+421,2023-05-02,Headphones,Accessories,North,Offline,5,4322.77,21613.85,Credit Card,1183
+422,2023-10-12,Smart Watch,Wearables,East,Online,1,4286.73,4286.73,Cash,1139
+423,2023-10-17,Office Chair,Furniture,South,Offline,5,3567.65,17838.25,Cash,1128
+424,2023-07-21,Office Chair,Furniture,North,Offline,2,4739.34,9478.68,Net Banking,1128
+425,2023-04-11,Backpack,Accessories,East,Offline,5,1982.79,9913.95,UPI,1016
+426,2023-04-06,Laptop,Electronics,South,Online,5,957.16,4785.8,Net Banking,1270
+427,2023-08-07,Smart Watch,Wearables,South,Online,3,1548.05,4644.15,Cash,1239
+428,2023-05-24,Office Chair,Furniture,East,Offline,3,553.88,1661.64,Cash,1076
+429,2023-09-03,Laptop,Electronics,West,Online,2,1567.91,3135.82,Net Banking,1233
+430,2023-10-28,Smart Watch,Wearables,South,Online,3,2804.06,8412.18,Net Banking,1194
+431,2023-12-23,Smart Watch,Wearables,West,Offline,3,699.68,2099.04,Credit Card,1026
+432,2023-04-18,Smart Watch,Wearables,East,Offline,2,3568.02,7136.04,Net Banking,1170
+433,2023-05-13,Backpack,Accessories,East,Online,3,1765.72,5297.16,Cash,1265
+434,2023-11-02,Laptop,Electronics,West,Online,5,4850.61,24253.05,UPI,1067
+435,2023-04-20,Smartphone,Electronics,North,Online,2,2242.31,4484.62,UPI,1021
+436,2023-08-29,Smartphone,Electronics,West,Online,2,2928.46,5856.92,Credit Card,1061
+437,2023-07-26,Headphones,Accessories,North,Offline,4,2642.56,10570.24,Credit Card,1292
+438,2023-06-01,Smart Watch,Wearables,East,Offline,5,4789.81,23949.05,UPI,1031
+439,2023-10-02,Office Chair,Furniture,North,Offline,3,3151.62,9454.86,Net Banking,1062
+440,2023-10-10,Laptop,Electronics,North,Offline,3,2574.02,7722.06,Net Banking,1239
+441,2023-07-15,Headphones,Accessories,West,Offline,5,4437.93,22189.65,Cash,1038
+442,2023-01-24,Laptop,Electronics,East,Offline,2,3449.2,6898.4,UPI,1095
+443,2023-08-15,Office Chair,Furniture,East,Offline,5,1004.96,5024.8,Net Banking,1118
+444,2023-04-09,Smart Watch,Wearables,North,Online,3,1915.75,5747.25,Net Banking,1188
+445,2023-06-11,Smart Watch,Wearables,North,Offline,2,2147.16,4294.32,Net Banking,1280
+446,2023-11-28,Laptop,Electronics,South,Offline,2,2673.62,5347.24,Credit Card,1163
+447,2023-05-20,Smartphone,Electronics,North,Offline,2,3819.25,7638.5,UPI,1176
+448,2023-11-25,Laptop,Electronics,South,Offline,3,522.38,1567.14,Cash,1281
+449,2023-12-18,Laptop,Electronics,East,Offline,2,4672.68,9345.36,Net Banking,1285
+450,2023-11-01,Smartphone,Electronics,East,Offline,1,4238.62,4238.62,UPI,1164
+451,2023-06-23,Smart Watch,Wearables,East,Offline,2,4265.93,8531.86,Cash,1170
+452,2023-02-28,Laptop,Electronics,South,Offline,3,4441.08,13323.24,Credit Card,1047
+453,2023-02-24,Smartphone,Electronics,North,Offline,3,4356.02,13068.06,UPI,1088
+454,2023-03-26,Smartphone,Electronics,East,Offline,1,3627.43,3627.43,Credit Card,1098
+455,2023-11-21,Smart Watch,Wearables,East,Offline,1,1857.78,1857.78,Credit Card,1269
+456,2023-10-01,Laptop,Electronics,East,Offline,5,2600.08,13000.4,Cash,1228
+457,2023-08-14,Headphones,Accessories,North,Offline,2,1951.14,3902.28,Net Banking,1034
+458,2023-01-08,Smart Watch,Wearables,South,Offline,1,1557.3,1557.3,Cash,1226
+459,2023-04-01,Headphones,Accessories,North,Online,4,586.56,2346.24,Credit Card,1178
+460,2023-11-06,Backpack,Accessories,South,Offline,4,4558.12,18232.48,UPI,1019
+461,2023-03-03,Headphones,Accessories,South,Online,1,1459.51,1459.51,Credit Card,1149
+462,2023-05-30,Laptop,Electronics,East,Online,1,3391.74,3391.74,Credit Card,1114
+463,2023-09-09,Backpack,Accessories,North,Online,1,2840.81,2840.81,Net Banking,1256
+464,2023-02-27,Backpack,Accessories,South,Online,1,3313.54,3313.54,Credit Card,1132
+465,2023-01-03,Smartphone,Electronics,West,Offline,4,2416.06,9664.24,Credit Card,1041
+466,2023-07-17,Laptop,Electronics,East,Offline,1,4976.38,4976.38,Cash,1276
+467,2023-09-02,Laptop,Electronics,West,Offline,5,3894.55,19472.75,Credit Card,1089
+468,2023-08-27,Smartphone,Electronics,West,Offline,4,525.97,2103.88,Credit Card,1136
+469,2023-09-01,Backpack,Accessories,South,Online,5,1621.15,8105.75,Credit Card,1118
+470,2023-10-05,Office Chair,Furniture,West,Offline,2,3683.71,7367.42,Credit Card,1010
+471,2023-07-10,Headphones,Accessories,North,Online,3,1519.76,4559.28,UPI,1178
+472,2023-11-07,Backpack,Accessories,East,Online,2,2389.27,4778.54,UPI,1245
+473,2023-05-15,Laptop,Electronics,East,Online,1,4633.69,4633.69,UPI,1228
+474,2023-11-30,Office Chair,Furniture,North,Online,2,554.14,1108.28,Net Banking,1177
+475,2023-07-20,Laptop,Electronics,South,Online,5,3122.82,15614.1,Net Banking,1281
+476,2023-04-15,Smartphone,Electronics,East,Online,4,2570.75,10283.0,Credit Card,1267
+477,2023-06-28,Office Chair,Furniture,West,Online,3,2352.37,7057.11,Net Banking,1255
+478,2023-11-23,Smart Watch,Wearables,East,Offline,2,1252.24,2504.48,UPI,1023
+479,2023-03-14,Laptop,Electronics,East,Offline,1,1349.79,1349.79,Net Banking,1212
+480,2023-05-23,Smartphone,Electronics,East,Offline,3,3639.74,10919.22,Cash,1263
+481,2023-01-15,Headphones,Accessories,South,Online,4,3928.81,15715.24,Cash,1001
+482,2023-05-13,Smart Watch,Wearables,East,Offline,4,2103.24,8412.96,Cash,1035
+483,2023-03-30,Smartphone,Electronics,West,Offline,3,2813.96,8441.88,UPI,1080
+484,2023-11-02,Headphones,Accessories,East,Online,1,2124.63,2124.63,Cash,1019
+485,2023-09-15,Laptop,Electronics,West,Online,3,1065.7,3197.1,Net Banking,1287
+486,2023-03-30,Laptop,Electronics,South,Offline,2,4520.57,9041.14,Net Banking,1162
+487,2023-12-25,Smart Watch,Wearables,East,Offline,1,1840.49,1840.49,Net Banking,1112
+488,2023-12-14,Smartphone,Electronics,East,Offline,5,2485.69,12428.45,UPI,1277
+489,2023-07-20,Backpack,Accessories,South,Offline,4,3268.5,13074.0,UPI,1246
+490,2023-09-04,Headphones,Accessories,West,Online,4,818.79,3275.16,Credit Card,1120
+491,2023-01-01,Backpack,Accessories,West,Offline,3,3642.1,10926.3,Credit Card,1295
+492,2023-07-30,Headphones,Accessories,South,Offline,5,1245.18,6225.9,Cash,1268
+493,2023-03-18,Headphones,Accessories,East,Offline,5,2808.03,14040.15,Cash,1283
+494,2023-03-22,Office Chair,Furniture,West,Offline,1,4339.1,4339.1,Net Banking,1023
+495,2023-07-15,Smart Watch,Wearables,North,Offline,1,4361.21,4361.21,UPI,1072
+496,2023-08-31,Laptop,Electronics,North,Online,5,1427.57,7137.85,UPI,1259
+497,2023-02-27,Headphones,Accessories,North,Offline,2,2119.16,4238.32,Credit Card,1096
+498,2023-06-22,Headphones,Accessories,South,Online,5,3987.57,19937.85,Cash,1175
+499,2023-06-16,Backpack,Accessories,West,Offline,2,3603.35,7206.7,Credit Card,1011
+500,2023-10-03,Headphones,Accessories,West,Offline,1,3428.05,3428.05,Credit Card,1285
