@@ -43,7 +43,7 @@ This project helped me:
 ---
 
 ## 📸 Dashboard Preview
-![Retail Sales Analysis](dashboard.png)
+![Retail Sales Analysis](Dashboard.png)
 
 ---
 
