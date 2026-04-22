@@ -50,6 +50,16 @@ Analysis of INR against global currencies with trend, YoY growth, and insights.
 
 
 
+### 🛍️ Retail Sales Performance Dashboard
+
+The goal of this dashboard is to transform raw retail data into **actionable insights** that can support better decision-making.
+
+
+
+---
+
+
+
 ## 🧰 Tools & Technologies
 
 
