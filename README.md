@@ -60,6 +60,16 @@ The goal of this dashboard is to transform raw retail data into **actionable ins
 
 
 
+### 📉 Churn Analysis Dashboard
+
+The objective is to transform raw customer data into **actionable insights** that help businesses reduce churn and improve customer loyalty.
+
+
+
+---
+
+
+
 ## 🧰 Tools & Technologies
 
 
