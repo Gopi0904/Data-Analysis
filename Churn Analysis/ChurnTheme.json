@@ -1,0 +1,82 @@
+{
+  "name": "Churn Analysis Professional Theme",
+  "dataColors": [
+    "#2ECC71",
+    "#E74C3C",
+    "#3498DB",
+    "#9B59B6",
+    "#F39C12",
+    "#1ABC9C"
+  ],
+  "background": "#F5F6FA",
+  "foreground": "#2C3E50",
+  "tableAccent": "#3498DB",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Semibold",
+            "color": { "solid": { "color": "#2C3E50" } }
+          }
+        ],
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#E0E0E0" } }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#2C3E50" } },
+            "fontSize": 20
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#7F8C8D" } }
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "items": [
+          {
+            "color": { "solid": { "color": "#2C3E50" } },
+            "background": { "solid": { "color": "#ECF0F1" } }
+          }
+        ],
+        "header": [
+          {
+            "fontSize": 12,
+            "color": { "solid": { "color": "#2C3E50" } }
+          }
+        ]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "grid": [
+          {
+            "gridVertical": true,
+            "gridHorizontal": true,
+            "outlineColor": { "solid": { "color": "#E0E0E0" } }
+          }
+        ]
+      }
+    }
+  }
+}
