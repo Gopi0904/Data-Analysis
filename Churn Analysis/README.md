@@ -45,7 +45,7 @@ This project helped me:
 ---
 
 ## 📸 Dashboard Preview
-![Churn Analysis](./dashboard.png)
+![Churn Analysis](./Dashboard.png)
 
 ---
 
